@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://Hamool.github.io
+title: Hamool's corner
+tagline: Thougths on tech, programming and life
+description: Thougths on tech, programming and life
+paginate: 5
