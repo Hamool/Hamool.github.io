@@ -86,10 +86,10 @@ html {
 /* Sidebar nav */
 .sidebar-nav {
   padding-left: 0;
-  list-style: inline;
+  list-style: none;
 }
 .sidebar-nav-item {
-  display: block;
+  display: inline;
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
