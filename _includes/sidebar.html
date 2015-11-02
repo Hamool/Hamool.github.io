@@ -4,15 +4,15 @@
       <h1>{{ site.title }}</h1>
       <p class="lead">{{ site.description }}</p>
     </div>
-
-    <ul class="sidebar-nav" style="display: inline;">
+    <div style="display: inline;">
+    <ul class="sidebar-nav" >
       <li class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}">
         <a href="/">Home</a>
       </li>
       <li class="sidebar-nav-item">
         <a href="mailto:hamool111@gmail.com?subject=Feedback on Hamool's corner blog">Email Me</a>  
       </li>
-
+    </div>
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
         `layout: page` in the front-matter. See readme for usage.
