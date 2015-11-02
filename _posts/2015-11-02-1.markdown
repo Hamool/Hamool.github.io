@@ -1,7 +1,0 @@
----
-published: true
-title: Да твою жеж мать
-layout: post
-permalink: da-tvoyu-mat
----
-Будешь ты работать или нет?
