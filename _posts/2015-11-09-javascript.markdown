@@ -1,7 +1,8 @@
 ---
-published: true
+published: false
 title: Мысли по поводу JavaScript
 layout: post
+tags: [Programming]
 permalink: mysli-po-povodu-js
 ---
 # Итак, я закончил курс по JS на [Codecademy](http://codecademy.com)
@@ -17,6 +18,7 @@ permalink: mysli-po-povodu-js
 ## Кроме того
 
 За время прохождения этого курса мне actually стала нравится расстановка скобок по Кернигану и Ричи. Кто не в курсе, это вот такая:
+
 ``` JavaScript
 function() {
     if () {
@@ -26,7 +28,7 @@ function() {
     }
 }
 ```
-h
+
 Раньше такая расстановка скобок мне была просто противна, а сейчас я вижу, что этот код вполне неплохо читается, занимая при этом (в данном случае) на три строки меньше, чем в варианте написания по Оллмэну.
 
 Следующий на очереди - JQuery.
