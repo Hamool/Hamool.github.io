@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Мысли по поводу JavaScript
 layout: post
 tags: [Programming]
